@@ -17,7 +17,7 @@ export function Certifications() {
             Certificaciones
           </h1>
           <p className="text-xl text-foreground/60 max-w-2xl">
-            Formación continua y reconocimientos profesionales
+            Mi formación y reconocimientos profesionales
           </p>
         </motion.div>
 
