@@ -17,7 +17,7 @@ export function Experience() {
             Experiencia
           </h1>
           <p className="text-xl text-foreground/60 max-w-2xl">
-            Mi trayectoria profesional en robótica, manufactura e innovación
+            Mi trayectoria profesional en robótica y manufactura
           </p>
         </motion.div>
 
