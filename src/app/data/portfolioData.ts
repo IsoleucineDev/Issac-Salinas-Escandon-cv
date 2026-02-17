@@ -1,5 +1,5 @@
 // Datos del portafolio de Issac Salinas Escandon
-import profileImg from "figma:asset/86ba08ad53a2269f2ec7a5aa1b4f168d5154f7d9.png";
+import profileImg from "/src/assets/86ba08ad53a2269f2ec7a5aa1b4f168d5154f7d9.png";
 
 export const personalInfo = {
   name: "Issac Salinas Escandon",
